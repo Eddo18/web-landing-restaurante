@@ -2833,7 +2833,7 @@ body.visible-sidebar{
   position: relative;
   top: -270px;
   margin-bottom: -270px;
-  background: var(--color-five);
+  background: var(--color-five-eddo);
   z-index: 1;
 }
 
@@ -2863,7 +2863,7 @@ body.visible-sidebar{
   padding-left: var(--padding-left-60);
   padding-right: var(--padding-right-60);
   min-height: 100%;
-  background-color:var(--color-five);
+  background-color:var(--color-five-carlos);
 }
 
 .reserve-section .reserv-col .title{
@@ -2903,7 +2903,7 @@ body.visible-sidebar{
   position: relative;
   padding: 0 0;
   text-align: center;
-  background: url(../images/background/pattern-2.png) left top repeat;
+  /*background: url(../images/background/pattern-2.png) left top repeat;*/
 }
 
 .reserve-section .info-col .img-layer{
@@ -7148,8 +7148,4 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
   100% {
     width: 100%;
   }
-}
-
-.fondo {
-  background-image: url(Background.png);
 }
