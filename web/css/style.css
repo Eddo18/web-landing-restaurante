@@ -7149,3 +7149,7 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
     width: 100%;
   }
 }
+
+.fondo {
+  background-image: url(Background.png);
+}
